@@ -1,0 +1,63 @@
+body{
+background-color: #111111;
+padding: 25px;
+color: white;
+
+}
+h1{
+	text-align: center;
+		
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+.imp{
+	width: 400px ;
+	float: left !important;
+
+
+}
+h2{
+	text-align: right;
+	clear:right;
+}
+p{
+	font-size: 20px;
+}
+
+.mig{
+	text-align: right;
+
+}
+ul{
+	list-style-type: none;
+	text-align: right;
+}
+.sik{
+	border-radius: 8px;
+	margin: 30px;
+}		
+li{
+	font-size: 16px;
+}	
+body>form>button{
+	border-radius: 8px;
+	margin: 5px;
+	background-color: white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+div{
+	display: inline-block;
+	margin: 20px;
+	font-size: 14px;
+}
+
+.logo{
+	width: 80px;
+	height:80px;
+	float: left;
+}

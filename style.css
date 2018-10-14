@@ -1,0 +1,122 @@
+body{
+background-color: #111111;
+padding: 15px;
+color: white;
+}
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #333333;
+}
+li {
+    float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+		    
+li a:hover {
+    background-color: #111111;
+}
+.submenu {
+	display: none;
+}
+.menu li:hover .submenu {
+	display: block;
+}
+.ok{
+	color: white;
+	text-align: left;
+}
+video{
+	height: 500px;
+}
+.b{
+	border: 5px solid white;
+	padding: 10px;
+	color: white;
+	font-size: 17px;
+	background-color: #111111; 
+}
+.name{
+	font-size: 20px;
+	font-weight: bold;
+	color: #2EFEF7;
+}
+span{
+	color: #A9F5F2;
+}
+.a{
+	color: white;
+	font-size: 18px;
+}
+h1{
+	text-align: center;
+}
+.s{
+	width: 170px;
+}
+tr{
+	text-align: center;
+}
+.c{
+	font-size: 24px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+.f{
+	width: 230px;
+}
+body{
+background-color: #111111;
+padding: 15px;
+color: white;
+text-align: center;
+}
+.flex-container {
+ display: flex;
+ justify-content: space-around;
+ flex-wrap: wrap;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+
+}
+button{
+	float: right;
+}
+
+video{
+	float: left;
+}
+div a: hover{
+	 background-color: #111111;
+
+}
+.sik{
+	float: left;
+}
+.logo{
+	width: 80px;
+	height:80px;
+}
+.katalog{
+	width: 200px;
+
+}
+
+.button {
+position:absolute;
+   top:39px;
+   right:300px;
+}
